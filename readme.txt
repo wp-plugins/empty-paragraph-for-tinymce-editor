@@ -4,7 +4,7 @@ Donate link:
 Tags: tinymce, whitespace, linebreak, nbsp, p, paragraph
 Requires at least: 3.0.4
 Tested up to: 3.0.4
-Stable tag: trunk
+Stable tag: 0.9.0
 
 Adds an editor button that puts in an empty paragraph which won't get
 deleted when you save.
@@ -30,6 +30,6 @@ think, and entering HTML code will just disrupt the flow.
 
 == Changelog ==
 
-= 0.9 =
+= 0.9.0 =
 * initial release 
 
