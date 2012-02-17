@@ -4,7 +4,7 @@ Plugin Name: Empty Paragraph in TinyMCE editor
 Plugin URI: http://wordpress.org/extend/plugins/empty-paragraph-for-tinymce-editor/
 Description: Adds a button to the TinyMCE editor that adds an empty paragraph that won't get deleted.
 Author: Kevin Brubeck Unhammer
-Version: 0.9.2
+Version: 0.9.3
 Author URI: http://unhammer.wordpress.com
 */
 
