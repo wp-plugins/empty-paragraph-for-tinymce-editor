@@ -1,5 +1,5 @@
 function emptyp() {
-    return "\n<p class='empty-paragraph'>&#xFEFF;&nbsp;<span style='font-size:1px;'>.</span></p>\n";
+    return "\n<p class='empty-paragraph'>&#xFEFF;&nbsp;<span style='font-size:1px;color:transparent;'>.</span></p>\n";
 }
 
 (function() {
