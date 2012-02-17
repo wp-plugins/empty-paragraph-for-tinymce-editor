@@ -26,7 +26,7 @@ function emptyp() {
                 author : 'Kevin Brubeck Unhammer',
                 authorurl : 'http://unhammer.wordpress.com',
                 infourl : 'http://wordpress.org/extend/plugins/empty-paragraph-for-tinymce-editor/',
-                version : "0.9.2"
+                version : "0.9.3"
             };
         }
     });
